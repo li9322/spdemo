@@ -1,0 +1,15 @@
+server:
+  port: 8081
+  servlet:
+    context-path: /hello
+  tomcat:
+    uri-encoding: utf-8
+
+my:
+  name: 李
+  address: China
+  favorites:
+    - 足球
+    - 看电影
+    - codding
+    - 健步走
